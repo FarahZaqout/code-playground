@@ -1,0 +1,22 @@
+{
+  "name": "ca-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "tap-spec": "^5.0.0",
+    "tape": "^5.0.1"
+  }
+}
